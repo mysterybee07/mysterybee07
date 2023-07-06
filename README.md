@@ -1,3 +1,4 @@
+![logo](https://github.com/mysterybee07/mysterybee07/blob/main/githubprofile.png)
 <h1 align="center">Hey Geeks 👋, I'm Biraj Pudasaini</h1>
 <h3 align="center">I'm fascinated and curious about Coding and SEO</h3>
 <img allign="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg0eXYyZGFxMmxidXNwYjJzZnlhOGY3Z2U2ZnQzdTDNEpUTHQoQUJMHLrErGJyHg89uy71MyuHjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
